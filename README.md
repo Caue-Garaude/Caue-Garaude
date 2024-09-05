@@ -67,9 +67,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Caue-Garaude/Caue-Garaude/output/snake.svg" alt="Snake animation" />
-
-###

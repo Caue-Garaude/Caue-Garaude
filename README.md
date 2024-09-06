@@ -1,4 +1,4 @@
-<h2 align="left">Opa! Meu nome é Caue e eu sou um Frontend developer, Curso engenharia de software desde fevereiro de 2024 e trabalho na área de PLD & Compliance do Banco Rendimento, desenvolvendo frontend e atuando como analista de dados, desde julho de 2024 :)</h2>
+<h2 align="left">Olá! Meu nome é Caue e eu sou um desenvolvedor Frontend, Curso engenharia de software desde fevereiro de 2024 e sou Estagiário de PLD & FT do Banco Rendimento, na área de célula de dados, desenvolvendo frontend e atuando como analista de dados, desde julho de 2024 :)</h2>
 
 ###
 

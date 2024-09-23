@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I’m Caue, a passionate Frontend Developer currently pursuing a Software Engineering degree since February 2024. Alongside my studies, I’m an intern in Compliance & Anti-Money Laundering (AML) at Banco Rendimento, where I’ve been working in the data cell since July 2024. In this role, I not only develop engaging frontend solutions but also contribute as a data analyst. I love combining my technical skills with analytical thinking to create impactful applications. Let's connect and explore the world of coding together! 😊</h2>
+<h2 align="left">Hello! I’m Caue, a passionate Frontend Developer currently pursuing a Software Engineering degree since February 2024. Alongside my studies, I’m an intern in Compliance & Anti-Money Laundering (AML) at Banco Rendimento, where I’ve been working in the data cell since July 2024. In this role, I not only develop engaging frontend solutions but also contribute as a data analyst. I love combining my technical skills with analytical thinking to create impactful applications! 😊</h2>
 
 ###
 

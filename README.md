@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Caue e sou um desenvolvedor Frontend, Curso engenharia de software desde fevereiro de 2024 e sou Estagiário de Compliance & PLD, na área de célula de dados do Banco Rendimento, desenvolvendo frontend e atuando como analista de dados, desde julho de 2024 :)</h2>
+<h2 align="left">Hello! I’m Caue, a passionate Frontend Developer currently pursuing a Software Engineering degree since February 2024. Alongside my studies, I’m an intern in Compliance & Anti-Money Laundering (AML) at Banco Rendimento, where I’ve been working in the data cell since July 2024. In this role, I not only develop engaging frontend solutions but also contribute as a data analyst. I love combining my technical skills with analytical thinking to create impactful applications. Let's connect and explore the world of coding together! 😊</h2>
 
 ###
 

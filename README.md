@@ -1,4 +1,12 @@
-<h2 align="left">Hello! I’m Caue, a passionate Frontend Developer currently pursuing a Software Engineering degree since February 2024. Alongside my studies, I’m an data intern at Banco Rendimento, where I’ve been working since July 2024. In this role, I not only develop engaging frontend solutions but also contribute as a data analyst. I love combining my technical skills with analytical thinking to create impactful applications! 😊</h2>
+<h2 align="left">I’m currently a Data Analytics Intern at Itaú Unibanco, working in the infrastructure area of physical branches. I'm passionate about data, automation, and technology, with a strong focus on becoming a Data Engineer.
+
+In my daily work, I build ETL pipelines, create dashboards, perform data analysis, and develop automations to improve processes and deliver actionable insights. I have hands-on experience with API integrations, intelligent automations using n8n, and applying AI-based solutions.
+
+My technical stack includes Python, SQL, JavaScript, Java, and React. I also work with cloud platforms like AWS and GCP, and use tools such as Git/GitHub for version control and collaboration. I apply best practices in data pipeline architecture, system integration, and data visualization.
+
+My goal is to deepen my expertise in data engineering, focusing on scalable architecture, automation, and building data-driven solutions that generate real impact.
+
+I’m curious, self-taught, and driven by challenges that require logic, technical skills, and a problem-solving mindset. 😊</h2>
 
 ###
 

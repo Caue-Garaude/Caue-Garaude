@@ -1,12 +1,4 @@
-<h2 align="left">I’m currently a Data Analytics Intern at Itaú Unibanco, working in the infrastructure area of physical branches. I'm passionate about data, automation, and technology, with a strong focus on becoming a Data Engineer.
-
-In my daily work, I build ETL pipelines, create dashboards, perform data analysis, and develop automations to improve processes and deliver actionable insights. I have hands-on experience with API integrations, intelligent automations using n8n, and applying AI-based solutions.
-
-My technical stack includes Python, SQL, JavaScript, Java, and React. I also work with cloud platforms like AWS and GCP, and use tools such as Git/GitHub for version control and collaboration. I apply best practices in data pipeline architecture, system integration, and data visualization.
-
-My goal is to deepen my expertise in data engineering, focusing on scalable architecture, automation, and building data-driven solutions that generate real impact.
-
-I’m curious, self-taught, and driven by challenges that require logic, technical skills, and a problem-solving mindset. 😊</h2>
+<h2 align="left">I’m a Data Analytics Intern at Itaú Unibanco, working on infrastructure for physical branches. I focus on building ETL pipelines, creating dashboards, performing data analysis, and developing automations to optimize processes. I have experience with API integrations, intelligent automations (n8n), and AI-based solutions. My stack includes Python, SQL, JavaScript, Java, React, AWS, GCP, and Git. I aim to deepen my skills in data engineering, scalable architecture, and impactful data-driven solutions. I’m curious, self-taught, and driven by solving complex problems. 😊</h2>
 
 ###
 

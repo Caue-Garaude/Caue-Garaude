@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#1A1033"/>
+      <stop offset="100%" stop-color="#0B2A3A"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.2" cy="0.3" r="0.4">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.85" cy="0.6" r="0.35">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <style>
+      .title{font:800 64px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;letter-spacing:-1px}
+      .sub{font:500 22px 'JetBrains Mono',Consolas,'Courier New',monospace;fill:#00D9FF;letter-spacing:2px}
+      .tag{font:600 15px 'JetBrains Mono',Consolas,'Courier New',monospace;fill:#C9D1D9;letter-spacing:1px}
+      .fade{animation:in 1.2s ease-out}
+      .d2{animation-duration:1.6s}.d3{animation-duration:2s}
+      @keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+      .pulse{animation:p 2.4s ease-in-out infinite}
+      @keyframes p{0%,100%{opacity:.35}50%{opacity:1}}
+      .cursor{animation:b 1s steps(1) infinite}
+      @keyframes b{50%{opacity:0}}
+      .w1{animation:mv 9s ease-in-out infinite alternate}
+      @keyframes mv{from{transform:translateX(0)}to{transform:translateX(-60px)}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+  <rect width="1200" height="280" fill="url(#glow1)"/>
+  <rect width="1200" height="280" fill="url(#glow2)"/>
+
+  <!-- circuit nodes -->
+  <g stroke="#7C3AED" stroke-opacity="0.5" stroke-width="1.5" fill="none">
+    <path d="M60 60 H180 V110 H240"/>
+    <path d="M1140 70 H1020 V40 H960"/>
+    <path d="M1100 200 H1000 V170"/>
+  </g>
+  <g fill="#00D9FF">
+    <circle class="pulse" cx="240" cy="110" r="4"/>
+    <circle class="pulse" cx="960" cy="40" r="4" style="animation-delay:.8s"/>
+    <circle class="pulse" cx="1000" cy="170" r="4" style="animation-delay:1.6s"/>
+    <circle cx="60" cy="60" r="3" fill="#7C3AED"/>
+    <circle cx="1140" cy="70" r="3" fill="#7C3AED"/>
+    <circle cx="1100" cy="200" r="3" fill="#7C3AED"/>
+  </g>
+
+  <text x="600" y="122" text-anchor="middle" class="title fade" fill="url(#txt)">Caue Garaude</text>
+  <text x="600" y="165" text-anchor="middle" class="sub fade d2">&gt; Founder &amp; CEO @ CGCodeLab<tspan class="cursor">_</tspan></text>
+  <text x="600" y="200" text-anchor="middle" class="tag fade d3">AI SYSTEMS · AUTOMATION · DATA · WHATSAPP BOTS</text>
+
+  <!-- waves -->
+  <g class="w1">
+    <path d="M0 245 C150 215 300 275 450 245 S750 215 900 245 S1150 275 1300 245 V280 H0Z" fill="url(#wave)" opacity="0.25"/>
+  </g>
+  <path d="M0 258 C200 238 400 278 600 258 S1000 238 1200 258 V280 H0Z" fill="url(#wave)" opacity="0.55"/>
+</svg>

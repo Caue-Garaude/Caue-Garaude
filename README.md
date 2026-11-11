@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00D9FF&height=220&section=header&text=Caue%20Garaude&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Founder%20%26%20CEO%20%40%20CGCodeLab&descSize=20&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="./header.svg" width="100%" alt="Caue Garaude, Founder &amp; CEO @ CGCodeLab" />
 </p>
 
 <p align="center">
@@ -122,5 +122,5 @@ Self-taught, curious, and obsessed with turning messy processes into clean syste
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:0D1117&height=120&section=footer" alt="footer" />
+  <img src="./footer.svg" width="100%" alt="footer" />
 </p>

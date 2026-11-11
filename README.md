@@ -88,8 +88,12 @@ Self-taught, curious, and obsessed with turning messy processes into clean syste
 ## 📈 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Caue-Garaude&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=c9d1d9" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caue-Garaude&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="top languages" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
 </p>
 
 <p align="center">
@@ -97,7 +101,7 @@ Self-taught, curious, and obsessed with turning messy processes into clean syste
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Caue-Garaude&bg_color=0D1117&color=c9d1d9&line=7C3AED&point=00D9FF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20activity" alt="activity graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/Caue-Garaude/Caue-Garaude/output/snake-dark.svg" alt="contribution snake" />
 </p>
 
 ---
